@@ -1,2 +1,5 @@
-# GPS-Tracker
+# GPS Tracker
+
+## About
+
 A Python program to determine the location of a user by receiving data from satellite sources.
