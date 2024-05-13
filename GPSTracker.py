@@ -1,7 +1,7 @@
-import requests
 from selenium import webdriver
 import folium
 import datetime
+import requests
 import time
 
 def locationCoordinates():
