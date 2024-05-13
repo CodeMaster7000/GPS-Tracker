@@ -7,7 +7,7 @@ A Python program to determine the location of a user by receiving data from sate
 ## Prerequisites
 
 - Python 3
-- 'datetime' module (can be installed dimply with 'pip install datetime')
+- `datetime`module (can be installed simply with `pip install datetime`
 - 'folium' module (can be installed simply with 'pip install folium')
 - 'requests' module (can be installed simply with 'pip install requests')
 - 'selenium' module (can be installed simply with 'pip install selenium')
