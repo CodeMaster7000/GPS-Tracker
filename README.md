@@ -18,3 +18,5 @@ CLI:
 
 - Run 'python3 GPSTracker.py' if you have MacOS/Linux.
 - Run 'python GPSTracker.py' if you have Windows.
+
+DISCLAIMER: I, CodeMaster7000, am not responsible for any damage related to misuse of this product.
